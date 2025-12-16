@@ -6,7 +6,7 @@ title: Hannah Mekky
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profilepic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Hannah Mekky, and I am a senior mechanical engineering student at Cornell University. I am passionate about solving complex problems in manufacturing by combining technical analysis with practical creativity. My internship experiences taught me how to diagnose machinery issues, streamline assembly processes, and design improvements that enhance efficiency and reliability. What excites me most is the opportunity to apply engineering not just to optimize systems, but to create solutions that benefit people and communities — whether by improving workplace safety, reducing waste, or advancing sustainable practices that make manufacturing more resilient and responsible.
