@@ -13,6 +13,7 @@ My name is Hannah Mekky, and I am a senior mechanical engineering student at Cor
 Collaboration and leadership have been at the heart of my journey. From coordinating engineering projects to leading teams in athletics and the arts, I’ve learned how to bring diverse groups together to achieve shared goals. I believe the strongest solutions emerge when technical expertise is paired with empathy and a commitment to sustainability. My immediate goal is to contribute to manufacturing engineering teams where problem‑solving, collaboration, and community impact drive innovation. Long‑term, I aspire to bridge engineering and business leadership through an MBA, ensuring that the work I do continues to advance both organizational success and broader societal well‑being.
 
 Take a look at <a href="{{ site.baseurl }}/projects/">my projects</a>
- and <a href="{{ site.baseurl }}/assets/cv/HannahMekkyCV.pdf">CV</a>
+ and <a href="{{ site.baseurl }}/cv/">CV</a>
+
 
 
