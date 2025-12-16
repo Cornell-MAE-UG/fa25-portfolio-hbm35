@@ -14,3 +14,5 @@ Collaboration and leadership have been at the heart of my journey. From coordina
 
 Take a look at <a href="{{ site.baseurl }}/projects/">my projects</a>
  and <a href="{{ site.baseurl }}/assets/cv/HannahMekkyCV.pdf">CV</a>
+
+

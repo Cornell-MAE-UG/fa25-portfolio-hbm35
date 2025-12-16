@@ -14,7 +14,8 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Hannah Mekky
 description              : Hannah Mekky - Projects and CV 
 url: "https://cornell-mae-ug.github.io"
-baseurl: "/fa25-portfolio-hbm35"   # no trailing slash
+baseurl: "/fa25-portfolio-hbm35"
+
 
  
 
