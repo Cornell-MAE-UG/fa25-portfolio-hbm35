@@ -13,8 +13,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Hannah Mekky
 description              : Hannah Mekky - Projects and CV 
-baseurl: "/fa2025-portfolio-Mekky"   # no trailing slash
 url: "https://cornell-mae-ug.github.io"
+baseurl: "/fa25-portfolio-hbm35"   # no trailing slash
+
  
 
 # Theme and Style
