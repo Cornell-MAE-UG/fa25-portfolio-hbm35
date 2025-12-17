@@ -16,7 +16,7 @@ Testing Summary
 Performance assessment was conducted in the wind tunnel using a LabVIEW‑controlled data acquisition system. Torque and RPM data were collected across a range of wind speeds, and power curves were generated to compare experimental results with theoretical predictions. While the blades met all structural and geometric constraints, the measured power output (0.048 W) fell short of the theoretical value (1.528 W), highlighting inefficiencies due to mechanical losses, aerodynamic limitations, and non‑ideal system behavior. Despite this gap, the blades remained structurally sound, and the testing framework provided valuable insights for iterative improvement.
 
 Power curves generated:
-<img src="{{ site.baseurl }}/assets/images/power-curve.jpg" alt="Power Curve" width="50">
+<img src="{{ site.baseurl }}/assets/images/power-curve.jpg" alt="Power Curve" width="100">
 
 
 My Contribution
