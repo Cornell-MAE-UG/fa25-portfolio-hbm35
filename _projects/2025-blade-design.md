@@ -27,4 +27,4 @@ Power curves generated:
 I focused on crafting the testing protocol to standardize wind tunnel procedures and the analysis and reflection on performance outcomes. Additionally, I structured the presentation and final report, ensuring our findings were communicated clearly and professionally. These contributions helped translate technical results into a cohesive narrative suitable for both academic and professional audiences.
 
 Rendered blades: 
-<img src="{{ site.baseurl }}/assets/images/Blade_Renders.jpg" alt="Blades" width="400">
+<img src="{{ site.baseurl }}/assets/images/Blade_Renders.jpg" alt="Blades" width="500">
