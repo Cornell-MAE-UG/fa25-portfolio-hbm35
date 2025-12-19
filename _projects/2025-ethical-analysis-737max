@@ -2,6 +2,7 @@
 layout: project
 title: Ethical Analysis of the Boeing 737 Max Case
 description: Ethical Analysis
+technologies: [ASME Canons, Ethical Reasoning]
 image: /assets/images/4300-pic.jpg
 ---
 
@@ -38,6 +39,6 @@ Over the course of the following three weeks, we underwent an activity to dive d
     - Systemic: Stronger regulatory independence, industry-wide redundancy standards, and international coordination.
 
 
-## Conlcusion
+## Conclusion
 
 The Boeing 737 Max crisis analysis reinforced a central professional lesson: public safety must always override profit motives. Engineers, organizations, and regulators share responsibility for ensuring ethical decision-making in life-critical systems. By working through this structured process, I learned not only technical and ethical reasoning but also the ability to connect engineering practice to broader societal impact.
