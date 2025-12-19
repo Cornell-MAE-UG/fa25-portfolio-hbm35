@@ -5,7 +5,7 @@ description: Ethical Analysis
 image: /assets/images/4300-pic.jpg
 ---
 
-## Overview
+## Overview**
 
 The Boeing 737 Max case illustrates how engineering decisions can have profound societal consequences when safety, transparency, and accountability are compromised. Through a structured analysis process as part of MAE4300: Engineers and Society, I worked with a series of group members over a few weeks to examine the ethical failures surrounding the MCAS system and propose strategies for prevention.
 
@@ -13,11 +13,11 @@ The Boeing 737 Max case illustrates how engineering decisions can have profound 
 
 In the first week, my group identified five questions we wanted to focus on throughout the process of the analysis:
 
-1. Should the FAA have outsourced Boeing representatives to regulate Boeing designs?
-2. Should Boeing have excluded MCAS from pilot training manuals?
-3. Who is responsible for grounding a plane after the first crash?
-4. Should Boeing have been able to waive faulty Angle of Attack (AOA) test results?
-5. Should Boeing have ignored pilot feedback from simulations?
+**1.** Should the FAA have outsourced Boeing representatives to regulate Boeing designs?
+**2.** Should Boeing have excluded MCAS from pilot training manuals?
+**3.** Who is responsible for grounding a plane after the first crash?
+**4.** Should Boeing have been able to waive faulty Angle of Attack (AOA) test results?
+**5.** Should Boeing have ignored pilot feedback from simulations?
 
 These issues highlight conflicts between business motives, regulatory capture, and the engineer’s duty to protect public safety.
 
@@ -25,11 +25,11 @@ These issues highlight conflicts between business motives, regulatory capture, a
 
 Over the course of the following three weeks, we underwent an activity to dive deeper into the analysis:
 
-- Week 2: Fact Clarification: Organized material, individual, and organizational facts to understand causation. For example, MCAS relied on a single sensor without redundancy, while Boeing’s culture shifted from engineering excellence to profit prioritization.
+- **Week 2**: Fact Clarification: Organized material, individual, and organizational facts to understand causation. For example, MCAS relied on a single sensor without redundancy, while Boeing’s culture shifted from engineering excellence to profit prioritization.
 
-- Week 3: Ethical Principles: Applied ASME canons, particularly Canon 1 (public safety paramount) versus Canon 4 (faithful service to employer). In every case, Canon 1 prevailed, reinforcing that safety must override corporate loyalty.
+- **Week 3**: Ethical Principles: Applied ASME canons, particularly Canon 1 (public safety paramount) versus Canon 4 (faithful service to employer). In every case, Canon 1 prevailed, reinforcing that safety must override corporate loyalty.
 
-- Week 4: Constraints and Prevention Strategies: Recognized real-world barriers such as organizational pressure, regulatory ambiguity, and market demands that limited ethical action. Proposed solutions at three levels:
+- **Week 4**: Constraints and Prevention Strategies: Recognized real-world barriers such as organizational pressure, regulatory ambiguity, and market demands that limited ethical action. Proposed solutions at three levels:
 
     - Individual: Enhanced ethical training, professional networks, and whistleblower protections.
     - Organizational: Independent safety boards, cultural reforms, and transparent communication.
