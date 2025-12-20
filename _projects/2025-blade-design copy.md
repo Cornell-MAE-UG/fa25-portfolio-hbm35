@@ -1,0 +1,42 @@
+---
+layout: project
+title: Wind Turbine Blade Design
+description: Design and Prototype Project
+technologies: [Autodesk Fusion, MATLAB]
+image: /assets/images/Blade_Renders.jpg #replace
+---
+
+Overview
+
+<p>The Boeing 737 Max case illustrates how engineering decisions can have profound societal consequences when safety, transparency, and accountability are compromised. Through a structured analysis process, I worked with a series of group members over a few weeks to examine the ethical failures surrounding the MCAS system and propose strategies for prevention. </p>
+
+Key Ethical Issues
+
+<p>In the first week, my group identified five questions we wanted to focus on throughout the process of the analysis:</p>
+
+1. Should the FAA have outsourced Boeing representatives to regulate Boeing designs?
+2. hould Boeing have excluded MCAS from pilot training manuals?
+3. Who is responsible for grounding a plane after the first crash?
+4. Should Boeing have been able to waive faulty Angle of Attack (AOA) test results?
+5. Should Boeing have ignored pilot feedback from simulations?
+
+These issues highlight conflicts between business motives, regulatory capture, and the engineer’s duty to protect public safety.
+
+Analytical Process
+
+Over the course of the following three weeks, we underwent an activity to dive deeper into the analysis:
+
+Week 2: Fact Clarification: Organized material, individual, and organizational facts to understand causation. For example, MCAS relied on a single sensor without redundancy, while Boeing’s culture shifted from engineering excellence to profit prioritization.
+
+Week 3: Ethical Principles: Applied ASME canons, particularly Canon 1 (public safety paramount) versus Canon 4 (faithful service to employer). In every case, Canon 1 prevailed, reinforcing that safety must override corporate loyalty.
+
+Week 4: Constraints and Prevention Strategies: Recognized real-world barriers such as organizational pressure, regulatory ambiguity, and market demands that limited ethical action.
+    Prevention Strategies: Proposed solutions at three levels:
+    Individual: Enhanced ethical training, professional networks, and whistleblower protections.
+    Organizational: Independent safety boards, cultural reforms, and transparent communication.
+
+Systemic: Stronger regulatory independence, industry-wide redundancy standards, and international coordination.
+
+Conclusion
+
+The Boeing 737 Max analysis reinforced a central professional lesson: public safety must always override profit motives. Engineers, organizations, and regulators share responsibility for ensuring ethical decision-making in life-critical systems. By working through this structured process, I learned not only technical and ethical reasoning but also the ability to connect engineering practice to broader societal impact.
