@@ -5,11 +5,11 @@ description: Ethical Analysis
 technologies: [ASME Canons]
 image: /assets/images/4300-pic.jpg #replace
 ---
-Overview
+#### Overview
 
 The Boeing 737 Max case illustrates how engineering decisions can have profound societal consequences when safety, transparency, and accountability are compromised. Through a structured analysis process, I worked with a series of group members over a few weeks to examine the ethical failures surrounding the MCAS system and propose strategies for prevention.
 
-Key Ethical Issues
+#### Key Ethical Issues
 
 In the first week, my group identified five questions we wanted to focus on throughout the process of the analysis:
 
@@ -21,7 +21,7 @@ In the first week, my group identified five questions we wanted to focus on thro
 
 These issues highlight conflicts between business motives, regulatory capture, and the engineer’s duty to protect public safety.
 
-Analytical Process
+#### Analytical Process
 
 Over the course of the following three weeks, we underwent an activity to dive deeper into the analysis:
 
@@ -36,7 +36,7 @@ Week 4: Constraints and Prevention Strategies: Recognized real-world barriers su
 
 Systemic: Stronger regulatory independence, industry-wide redundancy standards, and international coordination.
 
-Conclusion
+#### Conclusion
 
 The Boeing 737 Max analysis reinforced a central professional lesson: public safety must always override profit motives. Engineers, organizations, and regulators share responsibility for ensuring ethical decision-making in life-critical systems. By working through this structured process, I learned not only technical and ethical reasoning but also the ability to connect engineering practice to broader societal impact.
 
