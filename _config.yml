@@ -34,7 +34,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /:collection/:true/
+    permalink: /:collection/:title/
 
 # Markdown
 markdown: kramdown
