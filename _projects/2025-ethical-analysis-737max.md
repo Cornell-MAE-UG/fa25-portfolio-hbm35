@@ -5,7 +5,6 @@ description: Ethical Analysis
 technologies: [ASME Canons]
 image: /assets/images/4300-pic.jpg #replace
 ---
-
 Overview
 
 The Boeing 737 Max case illustrates how engineering decisions can have profound societal consequences when safety, transparency, and accountability are compromised. Through a structured analysis process, I worked with a series of group members over a few weeks to examine the ethical failures surrounding the MCAS system and propose strategies for prevention.
