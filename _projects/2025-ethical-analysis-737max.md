@@ -40,3 +40,5 @@ Systemic: Stronger regulatory independence, industry-wide redundancy standards, 
 Conclusion
 
 The Boeing 737 Max analysis reinforced a central professional lesson: public safety must always override profit motives. Engineers, organizations, and regulators share responsibility for ensuring ethical decision-making in life-critical systems. By working through this structured process, I learned not only technical and ethical reasoning but also the ability to connect engineering practice to broader societal impact.
+
+<img src="{{ site.baseurl }}/assets/images/4300-pic.jpg" alt="Blades" width="500">
