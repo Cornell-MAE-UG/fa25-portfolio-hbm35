@@ -1,18 +1,18 @@
 ---
 layout: project
-title: Wind Turbine Blade Design
-description: Design and Prototype Project
-technologies: [Autodesk Fusion, MATLAB]
-image: /assets/images/Blade_Renders.jpg #replace
+title: Ethical Analysis Boeing 737 Max
+description: Ethical Analysis
+technologies: [ASME Canons]
+image: /assets/images/4300-pic.jpg #replace
 ---
 
 Overview
 
-<p>The Boeing 737 Max case illustrates how engineering decisions can have profound societal consequences when safety, transparency, and accountability are compromised. Through a structured analysis process, I worked with a series of group members over a few weeks to examine the ethical failures surrounding the MCAS system and propose strategies for prevention. </p>
+The Boeing 737 Max case illustrates how engineering decisions can have profound societal consequences when safety, transparency, and accountability are compromised. Through a structured analysis process, I worked with a series of group members over a few weeks to examine the ethical failures surrounding the MCAS system and propose strategies for prevention.
 
 Key Ethical Issues
 
-<p>In the first week, my group identified five questions we wanted to focus on throughout the process of the analysis:</p>
+In the first week, my group identified five questions we wanted to focus on throughout the process of the analysis:
 
 1. Should the FAA have outsourced Boeing representatives to regulate Boeing designs?
 2. hould Boeing have excluded MCAS from pilot training manuals?
