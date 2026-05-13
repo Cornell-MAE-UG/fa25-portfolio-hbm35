@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
 locale                   : "en-US"
 title                    : Hannah Mekky Portfolio
@@ -14,10 +13,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Hannah Mekky
 description              : Hannah Mekky - Projects and CV 
 url: "https://cornell-mae-ug.github.io"
-baseurl: "/fa25-portfolio-hbm35/"
-
-
- 
+baseurl: "/fa25-portfolio-hbm35"   # ← FIXED (no trailing slash)
 
 # Theme and Style
 theme: jekyll-theme-minimal
@@ -46,4 +42,3 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
-
